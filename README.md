@@ -1,8 +1,7 @@
-# Big-Data-Analytics
 
-The goal of this analytics is to find out the key factors impacting the check-in volume of the business owners on Yelp platform and provide suggestions for increasing the check-in volume the business owners on Yelp can benefit from.
+The goal of this analysis is to find out the key factors impacting the check-in volume of the business owners on Yelp platform and provide suggestions for increasing the check-in volume the business owners on Yelp can benefit from.
 
-This analytics is based on the big raw data(7.5G) of Yelp business which is deployed on AWS.
+This analysis is based on the large raw data(7.5G) of Yelp business which is deployed on AWS.
 
 # Raw data
 11 tables of Yelp users' info and Yelp business owners' info.
